@@ -1,3 +1,3 @@
 # codility
 
-Sample c++ codes for codility lessons.
+C++ samples for codility lessons.
